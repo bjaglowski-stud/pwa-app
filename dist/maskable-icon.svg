@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Serwis Aukcyjny">
+  <rect width="512" height="512" fill="#0f172a" />
+  <circle cx="256" cy="256" r="146" fill="#111827" />
+  <path d="M206 168l22 22 42-42 34 34-42 42 24 24-34 34-24-24-56 56-52-52 56-56-24-24 34-34z" fill="#f8fafc" />
+  <rect x="132" y="350" width="248" height="38" rx="19" fill="#f59e0b" />
+</svg>
